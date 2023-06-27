@@ -71,7 +71,7 @@ let selected_ele = null;
     }
         btn1.addEventListener('click',()=>
         {selected_color = 'orange';
-        console.log(selected_color)}
+        eraser_selected =false;}
         )
         btn2.addEventListener('click',()=>
         {
